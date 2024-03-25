@@ -4,4 +4,4 @@ In this project the properties of the drilling mud are assessed for real-time pr
 
 Notebook `` shows an exploration of the values and relationship between mud properties and system variables. Of note, this notebook has the code to generate animated 3D plots 
 
-![image1](MudWatcher Temperature (Degrees F)vsBit DepthvsHole Depth rotation.gif)
+![image1](graph1.gif)
